@@ -1,6 +1,6 @@
 # G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval
 
-> **[CVPR 2025]** Official repository for G-MIXER
+> **[CVPR 2026]** Official repository for G-MIXER
 
  
 <!-- PAPER FIGURE HERE — 아래 주석 해제 후 assets/framework.png 추가 -->
