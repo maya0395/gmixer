@@ -11,7 +11,7 @@
 ## 📖 Abstract
 
 Composed Image Retrieval (CIR) aims to retrieve target images by integrating a reference image with a corresponding modification text. CIR requires jointly considering the explicit semantics specified in the query and the implicit semantics embedded within its bi-modal composition. Recent training-free zero-shot CIR (ZS-CIR) methods leverage Multimodal Large Language Models (MLLMs) to generate detailed target descriptions, converting the implicit information into explicit textual expressions. However, these methods rely heavily on the textual modality and fail to capture the fuzzy retrieval nature that requires considering diverse combinations of candidates. This leads to reduced diversity and accuracy in retrieval results. To address this limitation, we propose a novel training-free method, Geodesic Mixup-based Implicit semantic eXpansion and Explicit semantic Re-ranking for ZS-CIR (G-MIXER). G-MIXER constructs composed query features that reflect the implicit semantics of reference image-text pairs through geodesic mixup over a range of mixup ratios, and builds a diverse candidate set. The generated candidates are then re-ranked using explicit semantics derived from MLLMs, improving both retrieval diversity and accuracy. Our proposed G-MIXER achieves state-of-the-art performance across multiple ZS-CIR benchmarks, effectively handling both implicit and explicit semantics without additional training.
----
+
 
 ## 🌟 Key Features
 
@@ -150,7 +150,7 @@ If you find this work helpful, please consider citing:
 This codebase builds upon the following outstanding works. We sincerely thank their authors for open-sourcing their code:
 
 - [CIReVL](https://github.com/ExplainableML/Vision_by_Language) (ICLR 2024) — our baseline code is adapted from here
-- [OSrCIR](https://github.com/Pter61/osrcir) (CVPR 2025)
+- [OSrCIR](https://github.com/Pter61/osrcir) (CVPR 2025) — our baseline code is adapted from here
 - [SEARLE](https://github.com/miccunifi/SEARLE)
 - [CIRCO](https://github.com/miccunifi/CIRCO)
 - [CIRR](https://github.com/Cuberick-Orion/CIRR)
@@ -159,4 +159,4 @@ This codebase builds upon the following outstanding works. We sincerely thank th
 
 ## 📧 Contact
 
-For questions, feel free to open an issue or reach out to **[YOUR EMAIL HERE]**.
+For questions, feel free to open an issue or reach out to maya0707@skku.edu.
