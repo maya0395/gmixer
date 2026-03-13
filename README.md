@@ -134,7 +134,7 @@ G-MIXER/
 
 If you find this work helpful, please consider citing:
 ```bibtex
-@InProceedings{GMIXER_CVPR2025,
+@InProceedings{GMIXER_CVPR2026,
     author    = {Jiyoung Lim, Heejae Yang, and Jee-Hyong Lee},
     title     = {G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
