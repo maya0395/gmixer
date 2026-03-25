@@ -151,7 +151,7 @@ This codebase builds upon the following outstanding works. We sincerely thank th
 
 - [CIReVL](https://github.com/ExplainableML/Vision_by_Language) (ICLR 2024) — our baseline code is adapted from here
 - [OSrCIR](https://github.com/Pter61/osrcir) (CVPR 2025) — our baseline code is adapted from here
-- [SEARLE](https://github.com/miccunifi/SEARLE)
+- [SEARLE](https://github.com/miccunifi/SEARLE) (
 - [CIRCO](https://github.com/miccunifi/CIRCO)
 - [CIRR](https://github.com/Cuberick-Orion/CIRR)
 
